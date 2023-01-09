@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fa898c0-af9e-4f77-8051-38f55fd80936" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/vuetify/vuetify-app/public/assets/item.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuetify/vuetify-app/public/assets/item1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuetify/vuetify-app/public/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuetify/vuetify-app/public/assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuetify/vuetify-app/public/assets/restik.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuetify/vuetify-app/src/assets/item.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuetify/vuetify-app/src/assets/item1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuetify/vuetify-app/src/assets/restik.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuetify/vuetify-app/src/components/Cafe/CafeMenu.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuetify/vuetify-app/src/components/CafeInfo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuetify/vuetify-app/src/components/CafeView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuetify/vuetify-app/src/components/DashBoard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuetify/vuetify-app/src/components/GList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuetify/vuetify-app/src/components/GLogin.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuetify/vuetify-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vuetify/vuetify-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuetify/vuetify-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vuetify/vuetify-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuetify/vuetify-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vuetify/vuetify-app/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuetify/vuetify-app/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vuetify/vuetify-app/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuetify/vuetify-app/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vuetify/vuetify-app/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuetify/vuetify-app/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vuetify/vuetify-app/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuetify/vuetify-app/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vuetify/vuetify-app/vue.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vuetify/vuetify-app" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2K04Ex8eRyAnYu1oonx0L1J7PXt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Sidx1337/Desktop/Новая папка/vuetify/vuetify-app/public&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sidx1337\Desktop\Новая папка\vuetify\vuetify-app\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sidx1337\Desktop\Новая папка\vuetify\vuetify-app\src\components" />
+      <recent name="C:\Users\Sidx1337\Desktop\Новая папка\vuetify\vuetify-app\src\components\Cafe" />
+      <recent name="C:\Users\Sidx1337\Desktop\Новая папка\vuetify\vuetify-app\src\assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fa898c0-af9e-4f77-8051-38f55fd80936" name="Changes" comment="" />
+      <created>1673098059011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673098059011</updated>
+      <workItem from="1673098060610" duration="2102000" />
+      <workItem from="1673111779997" duration="7758000" />
+      <workItem from="1673180079486" duration="2620000" />
+      <workItem from="1673279459379" duration="2657000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
